@@ -1,0 +1,5 @@
+---
+  deployment:
+    tasks:
+      - export DEPLOYPATH=/home/aywsolution/public_html/puntoanimal.aywsolution.com/
+      - /bin/rsync -av ./ $DEPLOYPATH
