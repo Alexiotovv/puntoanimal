@@ -1,0 +1,358 @@
+[03-Jun-2024 13:32:49 America/Lima] PHP Notice:  Undefined offset: 3 in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/editCliente-view.php on line 136
+[03-Jun-2024 13:32:49 America/Lima] PHP Stack trace:
+[03-Jun-2024 13:32:49 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[03-Jun-2024 13:32:49 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[03-Jun-2024 13:32:49 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[03-Jun-2024 13:32:49 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[03-Jun-2024 13:32:49 America/Lima] PHP Notice:  Undefined offset: 3 in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/editCliente-view.php on line 136
+[03-Jun-2024 13:32:49 America/Lima] PHP Stack trace:
+[03-Jun-2024 13:32:49 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[03-Jun-2024 13:32:49 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[03-Jun-2024 13:32:49 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[03-Jun-2024 13:32:49 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[03-Jun-2024 13:32:49 America/Lima] PHP Notice:  Undefined offset: 3 in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/editCliente-view.php on line 136
+[03-Jun-2024 13:32:49 America/Lima] PHP Stack trace:
+[03-Jun-2024 13:32:49 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[03-Jun-2024 13:32:49 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[03-Jun-2024 13:32:49 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[03-Jun-2024 13:32:49 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[08-Jun-2024 11:28:11 America/Lima] PHP Notice:  Undefined offset: 3 in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/editCliente-view.php on line 136
+[08-Jun-2024 11:28:11 America/Lima] PHP Stack trace:
+[08-Jun-2024 11:28:11 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[08-Jun-2024 11:28:11 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[08-Jun-2024 11:28:11 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[08-Jun-2024 11:28:11 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[08-Jun-2024 11:28:12 America/Lima] PHP Notice:  Undefined offset: 3 in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/editCliente-view.php on line 136
+[08-Jun-2024 11:28:12 America/Lima] PHP Stack trace:
+[08-Jun-2024 11:28:12 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[08-Jun-2024 11:28:12 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[08-Jun-2024 11:28:12 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[08-Jun-2024 11:28:12 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[08-Jun-2024 11:28:12 America/Lima] PHP Notice:  Undefined offset: 3 in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/editCliente-view.php on line 136
+[08-Jun-2024 11:28:12 America/Lima] PHP Stack trace:
+[08-Jun-2024 11:28:12 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[08-Jun-2024 11:28:12 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[08-Jun-2024 11:28:12 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[08-Jun-2024 11:28:12 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[13-Jun-2024 13:31:49 America/Lima] PHP Notice:  Undefined index: clienteCorreo in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/perfilVeterinario-view.php on line 33
+[13-Jun-2024 13:31:49 America/Lima] PHP Stack trace:
+[13-Jun-2024 13:31:49 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[13-Jun-2024 13:31:49 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[13-Jun-2024 13:31:49 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[13-Jun-2024 13:31:49 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[13-Jun-2024 13:31:49 America/Lima] PHP Notice:  Undefined index: clienteCorreo in /home/veterina2/systemfuturista.com/veterinaria/vistas/contenidos/perfilVeterinario-view.php on line 33
+[13-Jun-2024 13:31:49 America/Lima] PHP Stack trace:
+[13-Jun-2024 13:31:49 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/index.php:0
+[13-Jun-2024 13:31:49 America/Lima] PHP   2. vistasControlador->obtener_plantilla_controlador() /home/veterina2/systemfuturista.com/veterinaria/index.php:7
+[13-Jun-2024 13:31:49 America/Lima] PHP   3. require_once() /home/veterina2/systemfuturista.com/veterinaria/controladores/vistasControlador.php:11
+[13-Jun-2024 13:31:49 America/Lima] PHP   4. require_once() /home/veterina2/systemfuturista.com/veterinaria/vistas/plantilla.php:67
+[24-Aug-2024 00:46:17 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'nivesggw_user'@'business60-3.web-hosting.com' (using password: YES) in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/puntoanimal.nivelnet.com/modelos/loginModelo.php(12): mainModel::conectar()
+#2 /home/nivesggw/puntoanimal.nivelnet.com/controladores/loginControlador.php(45): loginModelo::iniciar_sesion_modelo()
+#3 /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/login-view.php(6): loginControlador->iniciar_sesion_controlador()
+#4 /home/nivesggw/puntoanimal.nivelnet.com/vistas/plantilla.php(29): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/puntoanimal.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/puntoanimal.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 18
+[24-Aug-2024 00:46:29 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'nivesggw_user'@'business60-3.web-hosting.com' (using password: YES) in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/puntoanimal.nivelnet.com/modelos/loginModelo.php(12): mainModel::conectar()
+#2 /home/nivesggw/puntoanimal.nivelnet.com/controladores/loginControlador.php(45): loginModelo::iniciar_sesion_modelo()
+#3 /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/login-view.php(6): loginControlador->iniciar_sesion_controlador()
+#4 /home/nivesggw/puntoanimal.nivelnet.com/vistas/plantilla.php(29): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/puntoanimal.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/puntoanimal.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 18
+[24-Aug-2024 00:46:39 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'nivesggw_user'@'business60-3.web-hosting.com' (using password: YES) in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/puntoanimal.nivelnet.com/modelos/loginModelo.php(12): mainModel::conectar()
+#2 /home/nivesggw/puntoanimal.nivelnet.com/controladores/loginControlador.php(45): loginModelo::iniciar_sesion_modelo()
+#3 /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/login-view.php(6): loginControlador->iniciar_sesion_controlador()
+#4 /home/nivesggw/puntoanimal.nivelnet.com/vistas/plantilla.php(29): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/puntoanimal.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/puntoanimal.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 18
+[24-Aug-2024 00:47:33 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'nivesggw_user'@'business60-3.web-hosting.com' (using password: YES) in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/puntoanimal.nivelnet.com/modelos/loginModelo.php(12): mainModel::conectar()
+#2 /home/nivesggw/puntoanimal.nivelnet.com/controladores/loginControlador.php(45): loginModelo::iniciar_sesion_modelo()
+#3 /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/login-view.php(6): loginControlador->iniciar_sesion_controlador()
+#4 /home/nivesggw/puntoanimal.nivelnet.com/vistas/plantilla.php(29): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/puntoanimal.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/puntoanimal.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 18
+[26-Aug-2024 13:06:26 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[26-Aug-2024 13:06:28 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[26-Aug-2024 13:06:28 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[26-Aug-2024 13:08:31 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:08:32 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:08:32 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:08:47 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:08:47 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:08:47 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:10:15 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:10:16 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:10:16 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[26-Aug-2024 13:14:28 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[26-Aug-2024 13:14:29 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[26-Aug-2024 13:14:29 America/Lima] PHP Warning:  Undefined array key 3 in /home/nivesggw/puntoanimal.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:04 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 423
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 427
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 09:38:08 America/La_Paz] PHP Warning:  Trying to access array offset on value of type bool in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 428
+[30-Sep-2024 10:06:51 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'nivesggw_nivelpet'@'localhost' to database 'nivesggw_nivelpet' in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php(33): mainModel::conectar()
+#2 /home/nivesggw/nivelpet.nivelnet.com/controladores/empresaControlador.php(136): empresaModelo->datos_empresa_modelo()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/addNuevaVenta-view.php(9): empresaControlador->datos_empresa_controlador()
+#4 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(67): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php on line 18
+[30-Sep-2024 10:06:55 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'nivesggw_nivelpet'@'localhost' to database 'nivesggw_nivelpet' in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php(33): mainModel::conectar()
+#2 /home/nivesggw/nivelpet.nivelnet.com/controladores/empresaControlador.php(136): empresaModelo->datos_empresa_modelo()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/addNuevaVenta-view.php(9): empresaControlador->datos_empresa_controlador()
+#4 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(67): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php on line 18
+[30-Sep-2024 10:06:56 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'nivesggw_nivelpet'@'localhost' to database 'nivesggw_nivelpet' in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/nivelpet.nivelnet.com/modelos/usuarioModelo.php(57): mainModel::conectar()
+#2 /home/nivesggw/nivelpet.nivelnet.com/controladores/usuarioControlador.php(499): usuarioModelo::datos_usuario_modelo()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/home-view.php(8): usuarioControlador::datos_usuario_controlador()
+#4 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(67): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php on line 18
+[30-Sep-2024 10:07:00 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'nivesggw_nivelpet'@'localhost' to database 'nivesggw_nivelpet' in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php(18): PDO->__construct()
+#1 /home/nivesggw/nivelpet.nivelnet.com/modelos/usuarioModelo.php(57): mainModel::conectar()
+#2 /home/nivesggw/nivelpet.nivelnet.com/controladores/usuarioControlador.php(499): usuarioModelo::datos_usuario_modelo()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/home-view.php(8): usuarioControlador::datos_usuario_controlador()
+#4 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(67): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#6 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#7 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/mainModel.php on line 18
+[30-Sep-2024 10:34:54 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nivesggw_nivelpet.empresa' doesn't exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php:40
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php(40): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/empresaControlador.php(136): empresaModelo->datos_empresa_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/addNuevaVenta-view.php(9): empresaControlador->datos_empresa_controlador()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(67): require_once('/home/nivesggw/...')
+#4 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#6 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php on line 40
+[30-Sep-2024 10:35:09 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nivesggw_nivelpet.usuarios' doesn't exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/loginModelo.php:16
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/loginModelo.php(16): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/loginControlador.php(45): loginModelo::iniciar_sesion_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/login-view.php(6): loginControlador->iniciar_sesion_controlador()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(29): require_once('/home/nivesggw/...')
+#4 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#6 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/loginModelo.php on line 16
+[30-Sep-2024 10:35:16 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nivesggw_nivelpet.usuarios' doesn't exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/loginModelo.php:16
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/loginModelo.php(16): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/loginControlador.php(45): loginModelo::iniciar_sesion_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/login-view.php(6): loginControlador->iniciar_sesion_controlador()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(29): require_once('/home/nivesggw/...')
+#4 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#6 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/loginModelo.php on line 16
+[23-Oct-2024 10:37:52 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 10:37:53 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 10:37:53 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 10:38:16 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 10:38:17 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 10:38:17 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 11:40:53 America/La_Paz] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/addNuevaVenta-view.php on line 6
+[23-Oct-2024 11:40:53 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nivesggw/nivelpet.nivelnet.com/vistas/modulos/navlateral.php:20) in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/addNuevaVenta-view.php on line 9
+[23-Oct-2024 12:30:08 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nivesggw_nivelpet.empresa' doesn't exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php:40
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php(40): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/empresaControlador.php(136): empresaModelo->datos_empresa_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/addNuevaVenta-view.php(10): empresaControlador->datos_empresa_controlador()
+#3 /home/nivesggw/nivelpet.nivelnet.com/vistas/plantilla.php(67): require_once('/home/nivesggw/...')
+#4 /home/nivesggw/nivelpet.nivelnet.com/controladores/vistasControlador.php(11): require_once('/home/nivesggw/...')
+#5 /home/nivesggw/nivelpet.nivelnet.com/index.php(6): vistasControlador->obtener_plantilla_controlador()
+#6 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/empresaModelo.php on line 40
+[23-Oct-2024 13:12:49 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[23-Oct-2024 13:12:52 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[23-Oct-2024 13:12:52 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[23-Oct-2024 13:15:31 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 13:15:32 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 13:15:32 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editMascota-view.php on line 196
+[23-Oct-2024 16:39:34 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[23-Oct-2024 16:39:37 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136
+[23-Oct-2024 16:39:37 America/La_Paz] PHP Warning:  Undefined array key 3 in /home/nivesggw/nivelpet.nivelnet.com/vistas/contenidos/editCliente-view.php on line 136

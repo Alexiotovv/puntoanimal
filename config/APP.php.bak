@@ -1,0 +1,5 @@
+<?php
+ 
+const SERVERURL="http://localhost/vet_pet_v1/";
+
+date_default_timezone_set ("America/Caracas");

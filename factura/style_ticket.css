@@ -1,0 +1,50 @@
+* {
+
+    font-family: 'DejaVu Sans', serif;
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 1em;
+}
+
+.ticket {
+    padding: 2mm;
+}
+
+td,
+th,
+tr,
+table {
+    border-top: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+    text-align: center;
+}
+.centrado {
+    text-align: center;
+    align-content: center;
+}
+.ticket p {
+  font-size: .7em;
+}
+.borde_bot {
+    border-bottom: 1px solid #000;
+}
+.tabletitle {
+  font-size: .5em;
+}
+.itemtext {
+  font-size: .5em;
+}
+.left{
+    text-align: left;
+}
+.detalles{
+    text-transform: uppercase;
+}
+

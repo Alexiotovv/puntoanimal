@@ -1,0 +1,533 @@
+[28-May-2024 12:14:41 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:14:41 America/Lima] PHP Stack trace:
+[28-May-2024 12:14:41 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:14:41 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:14:41 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:14:41 America/Lima] PHP Stack trace:
+[28-May-2024 12:14:41 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:14:41 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:14:41 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:14:41 America/Lima] PHP Stack trace:
+[28-May-2024 12:14:41 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:14:41 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:14:41 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:14:41 America/Lima] PHP Stack trace:
+[28-May-2024 12:14:41 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:14:41 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:19:10 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:19:10 America/Lima] PHP Stack trace:
+[28-May-2024 12:19:10 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:19:10 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:19:10 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:19:10 America/Lima] PHP Stack trace:
+[28-May-2024 12:19:10 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:19:10 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:19:10 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:19:10 America/Lima] PHP Stack trace:
+[28-May-2024 12:19:10 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:19:10 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:19:10 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:19:10 America/Lima] PHP Stack trace:
+[28-May-2024 12:19:10 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:19:10 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:32 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:32 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:32 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:32 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:32 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:32 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:32 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:32 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:32 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:32 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:32 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:32 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:32 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:32 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:32 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:32 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:34 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:34 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:34 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:34 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:34 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:34 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:34 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:34 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:34 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:34 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:34 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:34 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:34 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:34 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:34 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:34 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:37 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:37 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:37 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:37 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:37 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:37 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:37 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:37 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:37 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:37 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:37 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:37 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:37 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:37 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:37 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:37 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:40 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:40 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:40 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:40 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:40 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:40 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:40 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:40 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:40 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:40 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:40 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:40 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:40 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:40 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:40 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:40 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:44 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:44 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:44 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:44 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:44 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:44 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:44 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:44 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:44 America/Lima] PHP Notice:  Undefined index: codCita in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 459
+[28-May-2024 12:22:44 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:44 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:44 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[28-May-2024 12:22:44 America/Lima] PHP Notice:  Undefined index: citaHora in /home/veterina2/systemfuturista.com/veterinaria/controladores/vacunaControlador.php on line 470
+[28-May-2024 12:22:44 America/Lima] PHP Stack trace:
+[28-May-2024 12:22:44 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:0
+[28-May-2024 12:22:44 America/Lima] PHP   2. vacunaControlador->vacuna_proxima_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/citaHoyAjax.php:21
+[03-Jun-2024 13:29:04 America/Lima] PHP Notice:  Undefined variable: ruta_foto_db in /home/veterina2/systemfuturista.com/veterinaria/controladores/clienteControlador.php on line 219
+[03-Jun-2024 13:29:04 America/Lima] PHP Stack trace:
+[03-Jun-2024 13:29:04 America/Lima] PHP   1. {main}() /home/veterina2/systemfuturista.com/veterinaria/ajax/clienteAjax.php:0
+[03-Jun-2024 13:29:04 America/Lima] PHP   2. clienteControlador->agregar_cliente_controlador() /home/veterina2/systemfuturista.com/veterinaria/ajax/clienteAjax.php:13
+[26-Aug-2024 13:04:07 America/Lima] PHP Warning:  Undefined variable $avatar in /home/nivesggw/puntoanimal.nivelnet.com/controladores/mascotaControlador.php on line 245
+[26-Aug-2024 13:04:07 America/Lima] PHP Warning:  Undefined variable $ruta_foto_db in /home/nivesggw/puntoanimal.nivelnet.com/controladores/mascotaControlador.php on line 310
+[26-Aug-2024 13:04:54 America/Lima] PHP Warning:  Undefined variable $ruta_foto_db in /home/nivesggw/puntoanimal.nivelnet.com/controladores/clienteControlador.php on line 219
+[26-Aug-2024 13:10:41 America/Lima] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/puntoanimal.nivelnet.com/controladores/mascotaControlador.php on line 900
+[26-Aug-2024 13:38:56 America/Lima] PHP Warning:  unlink(../adjuntos/logo-empresa/logina2.png): No such file or directory in /home/nivesggw/puntoanimal.nivelnet.com/controladores/empresaControlador.php on line 180
+[26-Aug-2024 13:44:50 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vetDniCedula' in 'where clause' in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php:29
+Stack trace:
+#0 /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php(29): PDOStatement->execute()
+#1 /home/nivesggw/puntoanimal.nivelnet.com/controladores/veterinarioControlador.php(474): mainModel::ejecutar_consulta_simple()
+#2 /home/nivesggw/puntoanimal.nivelnet.com/ajax/veterinarioAjax.php(18): veterinarioControlador->eliminar_veterinario_controlador()
+#3 {main}
+  thrown in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 29
+[26-Aug-2024 13:45:51 America/Lima] PHP Warning:  imagepng(../adjuntos/veterinario-foto/6357306_26_08_2024_134551NivelPetAZ.png): Failed to open stream: No such file or directory in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 261
+[26-Aug-2024 13:46:29 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vetDniCedula' in 'where clause' in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php:29
+Stack trace:
+#0 /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php(29): PDOStatement->execute()
+#1 /home/nivesggw/puntoanimal.nivelnet.com/controladores/veterinarioControlador.php(474): mainModel::ejecutar_consulta_simple()
+#2 /home/nivesggw/puntoanimal.nivelnet.com/ajax/veterinarioAjax.php(18): veterinarioControlador->eliminar_veterinario_controlador()
+#3 {main}
+  thrown in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 29
+[26-Aug-2024 13:48:23 America/Lima] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'vetDniCedula' in 'where clause' in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php:29
+Stack trace:
+#0 /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php(29): PDOStatement->execute()
+#1 /home/nivesggw/puntoanimal.nivelnet.com/controladores/veterinarioControlador.php(474): mainModel::ejecutar_consulta_simple()
+#2 /home/nivesggw/puntoanimal.nivelnet.com/ajax/veterinarioAjax.php(18): veterinarioControlador->eliminar_veterinario_controlador()
+#3 {main}
+  thrown in /home/nivesggw/puntoanimal.nivelnet.com/modelos/mainModel.php on line 29
+[26-Aug-2024 13:48:42 America/Lima] PHP Warning:  unlink(../adjuntos/veterinario-foto/6357306_26_08_2024_134551NivelPetAZ.png): No such file or directory in /home/nivesggw/puntoanimal.nivelnet.com/controladores/veterinarioControlador.php on line 702
+[27-Sep-2024 12:43:34 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[27-Sep-2024 12:43:42 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[27-Sep-2024 12:43:48 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[27-Sep-2024 12:43:54 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[27-Sep-2024 12:43:57 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 08:59:20 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 08:59:21 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 08:59:21 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 08:59:21 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 08:59:22 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 08:59:24 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 08:59:29 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 09:13:25 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 09:13:26 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:17:58 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:02 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:02 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:06 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:06 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:07 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:07 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:07 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:07 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:18:09 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:32:33 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:32:36 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:32:38 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:38:57 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:38:59 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:38:59 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:38:59 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:44:21 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[30-Sep-2024 10:44:25 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[01-Oct-2024 10:06:47 America/La_Paz] PHP Warning:  Undefined variable $vencimiento in /home/nivesggw/nivelpet.nivelnet.com/controladores/inventarioControlador.php on line 91
+[23-Oct-2024 10:11:29 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1305 PROCEDURE nivesggw_nivelpet.add_detalle_temp does not exist in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[23-Oct-2024 10:25:49 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:46
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(46): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(325): ventaModelo::agregar_detalleventa_temp_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(28): ventaControlador->agregar_productodetalle_temp_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 46
+[23-Oct-2024 10:26:44 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 10:31:37 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 10:32:40 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 10:36:14 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 10:40:21 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 10:43:03 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:51
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(51): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 51
+[23-Oct-2024 10:44:30 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:44:30 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:44:33 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:44:33 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:44:38 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:44:38 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:44:40 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:44:40 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaModelo" not found in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php:11
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(7): require_once()
+#1 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php on line 11
+[23-Oct-2024 10:46:16 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaControlador" not found in /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php on line 8
+[23-Oct-2024 10:46:16 America/La_Paz] PHP Fatal error:  Uncaught Error: Class "ventaControlador" not found in /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php on line 8
+[23-Oct-2024 11:47:59 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 11:48:03 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 11:48:03 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 11:48:05 America/La_Paz] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php:18
+Stack trace:
+#0 /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php(18): PDOStatement->execute()
+#1 /home/nivesggw/nivelpet.nivelnet.com/controladores/ventaControlador.php(756): ventaModelo::agregar_venta_modelo()
+#2 /home/nivesggw/nivelpet.nivelnet.com/ajax/ventaAjax.php(45): ventaControlador->guardar_venta_controlador()
+#3 {main}
+  thrown in /home/nivesggw/nivelpet.nivelnet.com/modelos/ventaModelo.php on line 18
+[23-Oct-2024 12:38:03 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/usuarioControlador.php on line 544
+[23-Oct-2024 12:38:37 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/usuarioControlador.php on line 544
+[23-Oct-2024 12:49:34 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:54:05 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:55:48 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:55:55 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:57:49 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:58:19 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:58:54 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:59:14 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 12:59:49 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 13:00:08 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 13:00:35 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 13:01:09 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 13:02:45 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 13:03:43 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 13:04:06 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598
+[23-Oct-2024 13:08:37 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/usuarioControlador.php on line 471
+[23-Oct-2024 13:12:38 America/La_Paz] PHP Warning:  Undefined variable $ruta_foto_db in /home/nivesggw/nivelpet.nivelnet.com/controladores/clienteControlador.php on line 219
+[23-Oct-2024 13:15:08 America/La_Paz] PHP Warning:  Undefined variable $avatar in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 246
+[23-Oct-2024 13:15:08 America/La_Paz] PHP Warning:  Undefined variable $ruta_foto_db in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 311
+[23-Oct-2024 16:38:27 America/La_Paz] PHP Warning:  Undefined variable $ruta_foto_db in /home/nivesggw/nivelpet.nivelnet.com/controladores/clienteControlador.php on line 219
+[23-Oct-2024 17:34:01 America/La_Paz] PHP Warning:  Undefined variable $avatar in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 246
+[23-Oct-2024 17:34:01 America/La_Paz] PHP Warning:  Undefined variable $ruta_foto_db in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 311
+[23-Oct-2024 17:34:13 America/La_Paz] PHP Warning:  unlink(../): Is a directory in /home/nivesggw/nivelpet.nivelnet.com/controladores/mascotaControlador.php on line 598

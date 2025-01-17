@@ -1,0 +1,95 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-appointment:before { content: "\f100"; }
+.flaticon-002-bag:before { content: "\f101"; }
+.flaticon-003-wrap:before { content: "\f102"; }
+.flaticon-004-bandage:before { content: "\f103"; }
+.flaticon-005-wound:before { content: "\f104"; }
+.flaticon-006-bird:before { content: "\f105"; }
+.flaticon-007-cage:before { content: "\f106"; }
+.flaticon-008-record:before { content: "\f107"; }
+.flaticon-009-veterinary:before { content: "\f108"; }
+.flaticon-010-food:before { content: "\f109"; }
+.flaticon-011-dog:before { content: "\f10a"; }
+.flaticon-012-vaccine:before { content: "\f10b"; }
+.flaticon-013-vaccine:before { content: "\f10c"; }
+.flaticon-014-rabbit:before { content: "\f10d"; }
+.flaticon-015-anti-bug:before { content: "\f10e"; }
+.flaticon-016-fracture:before { content: "\f10f"; }
+.flaticon-017-hamsters:before { content: "\f110"; }
+.flaticon-018-infusion:before { content: "\f111"; }
+.flaticon-019-kitten:before { content: "\f112"; }
+.flaticon-020-medication:before { content: "\f113"; }
+.flaticon-021-veterinary:before { content: "\f114"; }
+.flaticon-022-paw:before { content: "\f115"; }
+.flaticon-023-pets:before { content: "\f116"; }
+.flaticon-024-carrier:before { content: "\f117"; }
+.flaticon-025-pet-food:before { content: "\f118"; }
+.flaticon-026-puppy:before { content: "\f119"; }
+.flaticon-027-cone-of-shame:before { content: "\f11a"; }
+.flaticon-028-stethoscope:before { content: "\f11b"; }
+.flaticon-029-injection:before { content: "\f11c"; }
+.flaticon-030-veterinary:before { content: "\f11d"; }
+
+$font-Flaticon-001-appointment: "\f100";
+$font-Flaticon-002-bag: "\f101";
+$font-Flaticon-003-wrap: "\f102";
+$font-Flaticon-004-bandage: "\f103";
+$font-Flaticon-005-wound: "\f104";
+$font-Flaticon-006-bird: "\f105";
+$font-Flaticon-007-cage: "\f106";
+$font-Flaticon-008-record: "\f107";
+$font-Flaticon-009-veterinary: "\f108";
+$font-Flaticon-010-food: "\f109";
+$font-Flaticon-011-dog: "\f10a";
+$font-Flaticon-012-vaccine: "\f10b";
+$font-Flaticon-013-vaccine: "\f10c";
+$font-Flaticon-014-rabbit: "\f10d";
+$font-Flaticon-015-anti-bug: "\f10e";
+$font-Flaticon-016-fracture: "\f10f";
+$font-Flaticon-017-hamsters: "\f110";
+$font-Flaticon-018-infusion: "\f111";
+$font-Flaticon-019-kitten: "\f112";
+$font-Flaticon-020-medication: "\f113";
+$font-Flaticon-021-veterinary: "\f114";
+$font-Flaticon-022-paw: "\f115";
+$font-Flaticon-023-pets: "\f116";
+$font-Flaticon-024-carrier: "\f117";
+$font-Flaticon-025-pet-food: "\f118";
+$font-Flaticon-026-puppy: "\f119";
+$font-Flaticon-027-cone-of-shame: "\f11a";
+$font-Flaticon-028-stethoscope: "\f11b";
+$font-Flaticon-029-injection: "\f11c";
+$font-Flaticon-030-veterinary: "\f11d";

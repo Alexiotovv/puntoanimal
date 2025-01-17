@@ -1,0 +1,108 @@
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#encabezado{
+  position: fixed;
+  height: 100px;
+  padding: 10px 0;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+a {
+  color: #0087C3;
+  text-decoration: none;
+}
+
+body {
+  position: relative;
+  margin: 0 auto;
+  margin-top: 150px;
+  background: #FFFFFF; 
+  font-family: Arial, sans-serif; 
+  font-size: 14px; 
+  font-family: SourceSansPro;
+}
+
+#logo {
+  float: left;
+  margin-top: 8px;
+}
+
+#logo img {
+  height: 75px;
+}
+.empresa{
+  display: flex;
+  flex-direction: column;
+}
+.empresa .emp_razon{
+  margin-left: 20px;
+}
+.empresa .empresa_cont{
+  float: right;
+}
+
+#details {
+  margin-bottom: 20px;
+}
+
+#client {
+  padding-left: 6px;
+  border-left: 6px solid #0087C3;
+  float: left;
+}
+
+#client .to {
+  color: #777777;
+}
+
+h2.name {
+  font-size: 1.4em;
+  font-weight: normal;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+#invoice {
+  float: right;
+}
+
+#invoice h1 {
+  color: #0087C3;
+  font-size: 2.4em;
+  line-height: 1em;
+  font-weight: normal;
+  margin: 0  0 10px 0;
+}
+
+#invoice .date {
+  font-size: 1.1em;
+  color: #777777;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 20px;
+}
+
+table th,
+table td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+table th {
+  font-weight: bold;
+  padding: 5px 8px;
+  text-transform: uppercase;
+}
+
+table th {
+  white-space: nowrap;        
+  font-weight: normal;
+}
