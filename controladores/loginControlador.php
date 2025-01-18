@@ -46,8 +46,7 @@
 
 			if($datos_cuenta->rowCount()==1){
 				$row=$datos_cuenta->fetch();
-				if (session_status() !== PHP_SESSION_ACTIVE) {
-					session_start(['name' => 'VETP']);
+				if(session_start(['name'=>'VETP'])){
 					/*---variables  de sesion---*/
 					$_SESSION['id_vetp']=$row['id'];
 					$_SESSION['dni_vetp']=$row['userDni'];
