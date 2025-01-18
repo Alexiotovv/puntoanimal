@@ -1,12 +1,7 @@
 <div class="row mt-4">
 
   <!-- USUARIO SISTEMA -->
-  <?php
-  if ($_SESSION['privilegio_vetp']==1) {
-      require_once "./controladores/usuarioControlador.php";
-      $inst_usuario = new usuarioControlador();
-      $total_usuarios = $inst_usuario->datos_usuario_controlador("Conteo",0);
-   ?>
+
    
 
    
