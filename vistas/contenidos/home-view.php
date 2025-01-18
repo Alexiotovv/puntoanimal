@@ -1,8 +1,28 @@
 <div class="row mt-4">
-
   <!-- USUARIO SISTEMA -->
-
-
+  <?php
+  if ($_SESSION['privilegio_vetp']==1) {
+      require_once "./controladores/usuarioControlador.php";
+      $inst_usuario = new usuarioControlador();
+      $total_usuarios = $inst_usuario->datos_usuario_controlador("Conteo",0);
+   ?>
+  <div class="col-xl-3 col-md-6 mb-4">
+    <div class="card border-left-primary shadow h-100 py-2">
+      <a class="card-body" href="<?php  echo SERVERURL;?>listaUsuario/">
+        <div class="row no-gutters align-items-center">
+          <div class="col mr-2">
+            <div class="text-xs font-weight-bold text-violet text-uppercase mb-1" >usuarios</div>
+    
+            <div class="h5 mb-0 font-weight-bold text-gray-800"><?php echo $total_usuarios->rowCount(); ?></div>
+          </div>
+          <div class="col-auto">
+              <img src="../img/usuarios.png" alt="usuarios" width="80"></i>
+          </div>
+        </div>
+       </a>
+    </div>
+  </div>
+<?php } ?>
 <?php 
     require "./controladores/mascotaControlador.php";
     $mascota=new mascotaControlador();
